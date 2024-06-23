@@ -5,10 +5,10 @@ plugins {
 }
 
 android {
-    namespace = "com.praveen.kmptgridtest.android"
+    namespace = "com.praveen.KmpGridTest.android"
     compileSdk = 34
     defaultConfig {
-        applicationId = "com.praveen.kmptgridtest.android"
+        applicationId = "com.praveen.KmpGridTest.android"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

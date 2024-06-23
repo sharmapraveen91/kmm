@@ -1,6 +1,6 @@
-package com.praveen.kmptgridtest.repository
+package com.praveen.KmpGridTest.repository
 
-import com.praveen.kmptgridtest.GridItemData
+import com.praveen.KmpGridTest.GridItemData
 
 
 /**

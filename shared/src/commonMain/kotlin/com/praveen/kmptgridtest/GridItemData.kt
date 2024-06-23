@@ -1,4 +1,4 @@
-package com.praveen.kmptgridtest
+package com.praveen.KmpGridTest
 
 
 /**

@@ -1,4 +1,4 @@
-package com.praveen.kmptgridtest.android
+package com.praveen.KmpGridTest.android
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.foundation.shape.RoundedCornerShape

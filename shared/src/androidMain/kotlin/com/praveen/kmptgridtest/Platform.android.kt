@@ -1,4 +1,4 @@
-package com.praveen.kmptgridtest
+package com.praveen.KmpGridTest
 
 class AndroidPlatform : Platform {
     override val name: String = "Android ${android.os.Build.VERSION.SDK_INT}"

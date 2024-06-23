@@ -1,4 +1,4 @@
-package com.praveen.kmptgridtest.android
+package com.praveen.KmpGridTest.android
 
 import android.os.Bundle
 import android.util.Log
@@ -36,8 +36,8 @@ import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import coil.compose.rememberAsyncImagePainter
 import coil.compose.rememberImagePainter
-import com.praveen.kmptgridtest.GridItemData
-import com.praveen.kmptgridtest.repository.ItemRepository
+import com.praveen.KmpGridTest.GridItemData
+import com.praveen.KmpGridTest.repository.ItemRepository
 import kotlin.random.Random
 
 class MainActivity : ComponentActivity() {

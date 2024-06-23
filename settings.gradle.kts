@@ -14,6 +14,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "KmptGridTest"
+rootProject.name = "KmpGridTest"
 include(":androidApp")
 include(":shared")

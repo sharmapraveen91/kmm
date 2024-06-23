@@ -34,7 +34,7 @@ kotlin {
 }
 
 android {
-    namespace = "com.praveen.kmptgridtest"
+    namespace = "com.praveen.KmpGridTest"
     compileSdk = 34
     defaultConfig {
         minSdk = 24
