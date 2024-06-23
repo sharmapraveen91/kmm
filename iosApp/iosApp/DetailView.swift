@@ -25,7 +25,7 @@ struct DetailView: View {
             }
             .frame(height: 240)
             .clipped()
-            Text(item.description)
+            Text(item.description_)
                 .font(.body)
                 .padding()
             Spacer()

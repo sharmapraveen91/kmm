@@ -5,10 +5,10 @@ plugins {
 }
 
 android {
-    namespace = "com.cars24.kmptgridtest.android"
+    namespace = "com.praveen.kmptgridtest.android"
     compileSdk = 34
     defaultConfig {
-        applicationId = "com.cars24.kmptgridtest.android"
+        applicationId = "com.praveen.kmptgridtest.android"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

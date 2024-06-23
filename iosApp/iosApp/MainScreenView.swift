@@ -47,7 +47,7 @@ struct GridItemView: View {
             .frame(height: 240)
             .clipped()
             .clipShape(.rect(cornerRadius:8))
-            Text(item.description)
+            Text(item.description_)
                 .font(.body)
                 .padding()
             Spacer()
